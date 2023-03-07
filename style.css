@@ -1,0 +1,103 @@
+.nav > a {
+    width: 100%;
+    vertical-align: auto;
+    text-decoration: none;
+    padding-right: 40px;
+    
+}
+.hub{
+    text-align: center;
+    font-size: x-large;
+}
+.firstdiv{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+#black{
+    width: 30%;
+}
+#brown{
+    width: 30%;
+    height: 40px;
+}
+#red{
+    width: 30%;
+}
+#pink{
+    width: 30%;
+}
+body{
+    background-color: rgb(230, 194, 199);
+}
+#dresses{
+    padding-right: 60px;
+}
+.big{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+}
+.floral{
+    width: 30%;
+}
+.sec{
+    width: 30%;
+    /* margin-bottom: 10%; */
+}
+.third{
+    width: 30%;
+}
+.fourth{
+    width: 30%;
+}
+.find{
+    background-color: rgb(121, 88, 112);
+}
+.find{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.on{
+    width: 30%;
+    
+}
+.contact{
+    width: 30%;
+    margin-left: 250px;
+}
+.last{
+    width: 30%;
+    margin-left: 120px;
+}
+#about{
+    color: black;
+}
+#prod{
+    color: black;
+}
+#pri{
+    color: black;
+}
+#con{
+    color: black;
+    padding-right: 700px;
+}
+#sign{
+    color: black;
+}
+#log{
+    color: black;
+}
+#line{
+    color: black 1px;
+    border: solid;
+
+}
+.method{
+    width: 30%;
+    margin-right: 170px;
+    
+}
